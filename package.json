@@ -1,0 +1,16 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "description": "myShop",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Henok",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
